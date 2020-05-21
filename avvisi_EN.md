@@ -9,11 +9,17 @@
 ```diff
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 02/05/2020: Lombardia Region recalculation of 329 deaths (47 today and 282 during April)
 - 01/05/2020: Lazio Region recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
 - 26/04/2020: Valle d'Aosta Region data recalculated (cases tested)
 =======
 =======
+=======
+- 19/05/2020: Marche Region positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)
+- 18/05/2020: P.A. Trento data tested cases not updated
+- 15/05/2020: Lazio Region 73 new positives, of which 18 relating to the last 24/48 hours and 55 recovered from reports of cases in March, April and May
+>>>>>>> e3b895f4cbe3bec7820f8deceaeb1780f88338bd
 - 14/05/2020: Sardegna Region data recalculation of deceased people (+5)
 >>>>>>> 43378f4b4b9012f72d4b168131ae9a48b4c4b08f
 - 12/05/2020: Lombardia Region add 419 positive cases diagnosed before the last 7 days
