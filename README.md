@@ -8,6 +8,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
  
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## Avviso modifiche 
 <<<<<<< HEAD
@@ -18,8 +19,9 @@
 Modifiche effettuate - fino al 22 maggio 2020, nella cartella legacy-data, saranno caricati i dati giornalieri con i codice_regione 04 per P.A. Bolzano e P.A. Trento che da oggi assumeranno il nuovo valore codice_regione 21 per P.A. Bolzano e 22 per P.A. Trento<br>
 >>>>>>> e3b895f4cbe3bec7820f8deceaeb1780f88338bd
 
+=======
+>>>>>>> b069a97b1baae3e2464baeb2163bc905267869b8
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
-
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
 
