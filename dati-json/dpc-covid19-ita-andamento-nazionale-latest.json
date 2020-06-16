@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-03T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 17242,
@@ -117,5 +118,23 @@
         "note_it": "",
         "note_en": ""
 >>>>>>> a4f7e37358ed9d84f70016bde7a44a17eee7a36d
+=======
+        "data": "2020-06-15T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 3489,
+        "terapia_intensiva": 207,
+        "totale_ospedalizzati": 3696,
+        "isolamento_domiciliare": 22213,
+        "totale_positivi": 25909,
+        "variazione_totale_positivi": -365,
+        "nuovi_positivi": 303,
+        "dimessi_guariti": 177010,
+        "deceduti": 34371,
+        "totale_casi": 237290,
+        "tamponi": 4648825,
+        "casi_testati": 2864084,
+        "note_it": "dc-IT-0051",
+        "note_en": "dc-EN-0051"
+>>>>>>> 2e41d15cbc0dce3113b7f3274f3b2479b5d2487b
     }
 ]

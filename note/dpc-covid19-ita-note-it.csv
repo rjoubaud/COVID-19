@@ -99,4 +99,19 @@ dc-IT-0039,2020-06-04T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzi
 =======
 dc-IT-0038,2020-06-04T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
 dc-IT-0039,2020-06-04T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi testati
+<<<<<<< HEAD
 >>>>>>> a4f7e37358ed9d84f70016bde7a44a17eee7a36d
+=======
+dc-IT-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+dc-IT-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+dc-IT-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
+dc-IT-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
+dc-IT-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
+dc-IT-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
+dc-IT-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
+dc-IT-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
+dc-IT-0048,2020-06-13T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+dc-IT-0049,2020-06-13T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+dc-IT-0050,2020-06-15T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
+dc-IT-0051,2020-06-15T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
+>>>>>>> 2e41d15cbc0dce3113b7f3274f3b2479b5d2487b

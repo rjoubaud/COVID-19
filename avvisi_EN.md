@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 02/05/2020: Lombardia Region recalculation of 329 deaths (47 today and 282 during April)
 - 01/05/2020: Lazio Region recalculation of 41 deaths (8 in the last 48 hours and 33 during April)
 - 26/04/2020: Valle d'Aosta Region data recalculated (cases tested)
@@ -19,6 +20,15 @@
 =======
 =======
 - 04/06/2020: Marche Region recacalculation of tested cases
+=======
+- 15/06/2020: P.A. Bolzano recalculation of positive cases (-2)
+- 13/06/2020: Lazio Region data recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
+- 12/06/2020: P.A. Bolzano recalculation of deceased (-1 related to yesterday)
+- 12/06/2020: Campania Region data recalculation of positive cases (-230)
+- 09/06/2020: Abruzzo Region data recalculation 1 death attributable to today and 32 deaths occurred in previous periods
+- 09/06/2020: Sardegna Region recalculation of data (-1 positive case compared to yesterday)
+- 04/06/2020: Marche Region recalculation of tested cases
+>>>>>>> 2e41d15cbc0dce3113b7f3274f3b2479b5d2487b
 - 31/05/2020: Abruzzo Region discharged/healed people data not updated
 - 30/05/2020: Abruzzo Region data update not received
 - 29/05/2020: Marche Region recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)

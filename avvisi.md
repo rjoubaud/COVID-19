@@ -11,12 +11,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 - 14/05/2020: dati Regione Sardegna ricalcolo decessi (+s5)
 >>>>>>> 43378f4b4b9012f72d4b168131ae9a48b4c4b08f
 =======
 =======
+=======
+- 15/06/2020: dati P.A. Bolzano ricalcolo casi positivi (-2)
+- 13/06/2020: dati Regione Lazio ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+- 12/06/2020: dati P.A. Bolzano ricalcolo deceduti (-1 relativo a ieri)
+- 12/06/2020: dati Regione Campania ricalcolo casi positivi (-230)
+- 09/06/2020: dati Regione Abruzzo ricalcolo dati 1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+- 09/06/2020: dati Regione Sardegna ricalcolo dei casi (-1 giorno precedente)
+>>>>>>> 2e41d15cbc0dce3113b7f3274f3b2479b5d2487b
 - 04/06/2020: dati Regione Marche ricalcolo casi testati
 - 31/05/2020: dati Regione Abruzzo dimessi/guariti non aggiornati
 - 30/05/2020: dati Regione Abruzzo aggiornamento non pervenuto
