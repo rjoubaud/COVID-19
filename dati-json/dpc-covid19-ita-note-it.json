@@ -1085,8 +1085,8 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
-        "avviso": "ricalcolo casi testati",
-        "note": ""
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi testati"
     },
     {
         "codice": "dc-IT-0039",
@@ -1099,8 +1099,13 @@
         "provincia": "",
         "sigla_provincia": "",
         "tipologia_avviso": "correzione dati",
+<<<<<<< HEAD
         "avviso": "ricalcolo casi testati",
         "note": ""
 >>>>>>> b069a97b1baae3e2464baeb2163bc905267869b8
+=======
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi testati"
+>>>>>>> a4f7e37358ed9d84f70016bde7a44a17eee7a36d
     }
 ]
