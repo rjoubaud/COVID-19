@@ -65,22 +65,6 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: aggiornamento al 4/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 26/4/2020.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Prossimi aggiornamenti
-
-- API Rest (Json)
-- GraphQL
-
-## Ipotesi modifiche
-=======
-## 2020-05-05
-
-- API Rest (Json) private beta
-- GraphQL private beta
-
-=======
->>>>>>> 739dba1a75419e31e1aad5e63ffc0dc108c6a9ce
 ## 2020-05-06
 
 - Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
@@ -93,8 +77,11 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: aggiornamento al 18/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 17/5/2020.
 
+## 2020-06-29
+
+- Modifica: nuovo dataset che aggiunge i dati "casi_da_sospetto_diagnostico" e "casi_da_screening", i campi note_it e note_en vengono rimossi includendo un solo campo "note", in dati Province aggiunto il valore "Fuori Regione / Provincia Autonoma", tutti i dati storici sono stati allineati e fino al 31/07 viene tenuto un repository legacy con i vecchi dataset nella directory "legacy"
+
 ## Prossimi aggiornamenti
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
 
 - API Rest (Json) public beta
 - GraphQL public beta

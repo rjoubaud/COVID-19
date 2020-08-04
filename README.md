@@ -6,21 +6,11 @@
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
- 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-## Avviso modifiche 
-<<<<<<< HEAD
-[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625)<br><br>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
-=======
-[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625#issuecomment-629615944)<br>
-Modifiche effettuate - fino al 22 maggio 2020, nella cartella legacy-data, saranno caricati i dati giornalieri con i codice_regione 04 per P.A. Bolzano e P.A. Trento che da oggi assumeranno il nuovo valore codice_regione 21 per P.A. Bolzano e 22 per P.A. Trento<br>
->>>>>>> e3b895f4cbe3bec7820f8deceaeb1780f88338bd
 
-=======
->>>>>>> b069a97b1baae3e2464baeb2163bc905267869b8
+**Modifiche ai dataset completate - [Avviso](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
+**I dati legacy, con la strutturazione delle cartelle dei vari dataset, sono disponibili nella directory "legacy" e saranno alimentate fino a venerdì 31/07**<br><br>
+**The legacy data, with the structure of the dataset folders, are available in the "legacy" directory and will be fed until Friday 31/07**<br><br>
+
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
@@ -89,6 +79,11 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
+├── legacy/
+│   ├── dati-andamento-nazionale
+│   ├── dati-json
+│   ├── dati-province
+│   ├── dati-regioni
 ├── metriche
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.json

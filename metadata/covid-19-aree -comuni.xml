@@ -18,11 +18,7 @@
    <gmd:contact xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
 		<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
-<<<<<<< HEAD
-                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-=======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -117,11 +113,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-<<<<<<< HEAD
-								<gco:Date>2020-04-20</gco:Date>
-=======
 								<gco:Date>2020-05-03</gco:Date>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -138,11 +130,7 @@
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
-<<<<<<< HEAD
-                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-=======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -175,11 +163,7 @@
 					<gmd:citedResponsibleParty>
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
-<<<<<<< HEAD
-                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-=======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -240,11 +224,7 @@
 			<gmd:pointOfContact>
 				<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
-<<<<<<< HEAD
-                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-=======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -480,11 +460,7 @@
 					<gmd:distributorContact>
 						<gmd:CI_ResponsibleParty>
                      <gmd:organisationName xsi:type="PT_FreeText_PropertyType">
-<<<<<<< HEAD
-                        <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
-=======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
->>>>>>> 76eaf8f131aba3e5af35052d52953038a6f2db17
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
